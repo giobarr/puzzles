@@ -1,0 +1,81 @@
+# Visual Studio + VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vscode/tasks.json
+*.vscode/launch.json
+*.vscode/extensions.json
+
+# Rider
+.idea/
+
+# Build output
+**/bin/
+**/obj/
+**/out/
+
+# NuGet
+*.nupkg
+packages/
+project.assets.json
+project.nuget.cache
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# dotnet tool output
+*.dll
+*.exe
+*.app
+*.appx
+*.msi
+*.zip
+*.tar.gz
+*.log
+*.vsix
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.cache
+
+# Logs
+*.log
+
+# User-specific files
+*.userprefs
+*.ide
+
+# Resharper
+_ReSharper*/
+*.ReSharper*
+
+# Mono
+*.pidb
+*.userprefs
+
+# Package managers
+node_modules/
+
+# Ignore folders for build/test artifacts
+TestResults/
+
+# Ignore dotnet restore/secrets files
+*.nuget.props
+*.nuget.targets
+
+# Ignore generated package artifacts
+*.nupkg
+*.snupkg
+
+# Keep Git metadata, do not ignore .git
