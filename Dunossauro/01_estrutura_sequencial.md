@@ -18,3 +18,20 @@ Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
 
 Exercício 07
 Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
+Exercício 08
+Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+
+Exercício 09
+Faça um programa que peça a temperatura em graus Fahrenheit, transforme e mostre a temperatura em graus Celsius.
+
+Exercício 10
+Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Fahrenheit.
+
+Exercício 11
+Faça um programa que peça 2 números inteiros e um número real. Calcule e mostre:
+
+O produto do dobro do primeiro com metade do segundo .
+A soma do triplo do primeiro com o terceiro.
+O terceiro elevado ao cubo.
+
