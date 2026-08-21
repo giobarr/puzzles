@@ -40,3 +40,13 @@ Tendo como dados de entrada um arquivo em Gigabytes, construa um algoritmo que f
 
 Formula
 Gigabytes * 1024
+
+Exercício 13
+Tendo como dados de entrada um arquivo em Gigabytes, construa um algoritmo que faça a conversão para Megabytes e Kilobytes, usando as seguintes fórmulas:
+
+Para Megabytes: Gigabytes * 1024
+Para Kilobytes: Gigabytes * 1024 * 1024
+Responda o tamanho do arquivo em Megabytes e o tamanho em Kilobytes.
+
+Exercício 14
+João, um pescador, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um programa que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do programa com as mensagens adequadas.
