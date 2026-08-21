@@ -24,10 +24,18 @@ namespace l01e14
             {
                 Console.Write(prompt);
                 string? input = Console.ReadLine();
+                if (input is null)
+                {
+                    Console.WriteLine("Entrada não detectada. Encerrando.");
+                    Environment.Exit(1);
+                }
+
                 if (double.TryParse(input, out double result))
                 {
                     return result;
                 }
+
+                Console.WriteLine("Valor inválido. Digite um número válido.");
             }
         }
     }
