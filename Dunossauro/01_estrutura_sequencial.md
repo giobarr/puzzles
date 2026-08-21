@@ -35,3 +35,8 @@ O produto do dobro do primeiro com metade do segundo .
 A soma do triplo do primeiro com o terceiro.
 O terceiro elevado ao cubo.
 
+Exercício 12
+Tendo como dados de entrada um arquivo em Gigabytes, construa um algoritmo que faça a conversão para Megabytes, usando a seguinte fórmula:
+
+Formula
+Gigabytes * 1024
